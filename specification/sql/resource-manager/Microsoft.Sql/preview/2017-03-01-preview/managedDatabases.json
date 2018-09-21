@@ -80,7 +80,7 @@
           "ManagedDatabases"
         ],
         "description": "Gets managed database restore operation status.",
-        "operationId": "ManagedDatabases_Get",
+        "operationId": "ManagedDatabases_GetOperationStatus",
         "parameters": [
           {
             "name": "locationName",
